@@ -53821,7 +53821,7 @@ o=k.gOo()
 n=e-15
 if(k.Pm()==="mobile"){m=F.a7W(C.tj)
 l=L.xK()
-m=M.iZ(j,new Y.qP(L.xK().a,l.b,H.b([n,(b.T(g).f.a.b-56-b.T(g).f.f.b)*0.4-f],p),o,j),j,new S.dG(j,j,m,j,j,j,C.a7),j,new V.aW(11,0,11,0),j,j)
+m=M.iZ(j,new Y.qP(L.xK().a,l.b,H.b([n-40,(b.T(g).f.a.b-56-b.T(g).f.f.b)*0.4-f-30],p),o,j),j,new S.dG(j,j,m,j,j,j,C.a7),j,new V.aW(11,0,11,0),j,j)
 g=m}else{m=F.a7W(C.ti)
 l=L.xK()
 m=M.iZ(j,new Y.qP(L.xK().a,l.b,H.b([n,(b.T(g).f.a.b-56-b.T(g).f.f.b)*0.4-f],p),o,j),j,new S.dG(j,j,m,j,j,j,C.a7),j,new V.aW(11,0,11,0),j,j)
@@ -53914,7 +53914,7 @@ $0:function(){return this.a.f.$1(J.aG(this.b,"txt"))},
 $S:23}
 O.Bf.prototype={
 N:function(a,b){var s=null,r=this.c.length
-if(r===0)r=V.a48(!0,Q.a4S(s,T.U9(H.b([L.u3("No past history...02",s)],t.fQ),C.bh,C.dl,C.bK),s),5,this.d)
+if(r===0)r=V.a48(!0,Q.a4S(s,T.U9(H.b([L.u3("No past history...03",s)],t.fQ),C.bh,C.dl,C.bK),s),5,this.d)
 else r=E.a9Q(new B.Ad(new G.Ws(new O.Sb(this,b),r,!0,!0,!0),s,C.o,!1,s,!0,C.km,!1,s,r,C.b5,C.xq,s,C.ak,s),s,!0,!0)
 return r}}
 O.Sb.prototype={
