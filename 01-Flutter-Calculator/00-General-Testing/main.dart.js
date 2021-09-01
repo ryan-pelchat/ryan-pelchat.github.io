@@ -53819,7 +53819,7 @@ o=k.gOo()
 n=e-15
 if(k.Pm()==="mobile"){m=new Y.d0(C.td,1,C.X)
 l=L.xJ()
-o=M.iZ(j,T.a4c(H.b([new Y.qP(L.xJ().a,l.b,H.b([n-40,(b.T(g).f.a.b-56-b.T(g).f.f.b-100)*0.4-f-40],p),o,j),T.lf(j,40,j)],q),C.b5,C.dl),j,new S.dW(j,j,new F.cF(m,m,m,m),j,j,j,C.aa),j,new V.aW(11,8,11,8),j,j)
+o=M.iZ(j,T.a4c(H.b([new Y.qP(L.xJ().a,l.b,H.b([n-40,(b.T(g).f.a.b-56-b.T(g).f.f.b-100)*0.4-f-40],p),o,j),T.lf(j,1/0,j)],q),C.b5,C.dl),j,new S.dW(j,j,new F.cF(m,m,m,m),j,j,j,C.aa),j,new V.aW(11,8,11,8),j,j)
 g=o}else{l=L.xJ()
 o=M.iZ(j,new Y.qP(L.xJ().a,l.b,H.b([n,(b.T(g).f.a.b-56-b.T(g).f.f.b-100)*0.4-f],p),o,j),j,j,j,new V.aW(11,8,11,8),j,j)
 g=o}return new M.tn(new E.pj(i,new P.U(1/0,56),j),T.M1(T.a4c(H.b([s,r,g],q),C.b5,C.is),j,j),j)}}
@@ -53911,7 +53911,7 @@ $0:function(){return this.a.f.$1(J.aG(this.b,"txt"))},
 $S:23}
 O.Bf.prototype={
 N:function(a,b){var s=null,r=this.c.length
-if(r===0)r=V.a48(!0,Q.a4T(s,T.U9(H.b([L.u2("No past history...03",s)],t.fQ),C.b5,C.dm,C.bK),s),5,this.d)
+if(r===0)r=V.a48(!0,Q.a4T(s,T.U9(H.b([L.u2("No past history...04",s)],t.fQ),C.b5,C.dm,C.bK),s),5,this.d)
 else r=E.a9P(new B.Ac(new G.Ws(new O.Sb(this,b),r,!0,!0,!0),s,C.o,!1,s,!0,C.km,!1,s,r,C.b6,C.xk,s,C.ak,s),s,!0,!0)
 return r}}
 O.Sb.prototype={
